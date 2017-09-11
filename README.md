@@ -8,7 +8,7 @@ STEP 1:
 Download the lastest Node.js from https://nodejs.org/en/
 
 STEP 2: 
-Dowload and open this "Ionic-Automatic-Mac-Installer" application. This will automatically create a directory named "Ionic_Projects" in your Documents folder.
+Unzip and open  "ionic_installer.zip" file. This will automatically create a directory named "Ionic_Projects" in your Documents folder.
 
 
 NOTE: 
