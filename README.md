@@ -8,7 +8,7 @@ If you do not know how to install Ionics in your Macintosh in the Terminal (or i
 Download the lastest Node.js from https://nodejs.org/en/
 
 <h3> STEP 2: </h3>
-Unzip and open  "ionic_installer.zip" file. This will automatically create a directory named "Ionic_Projects" in your Documents folder.
+Unzip and open  "ionic_installer.zip" file. This will automatically install the Ionics framework and create a directory named "Ionic_Projects" in your Documents folder.
 
 <h3> STEP 3: </h3>
 
