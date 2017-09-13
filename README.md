@@ -22,11 +22,11 @@ A dialog prompt will ask you for the name of your project.
 ![screen shot 2017-09-13 at 11 31 57 pm](https://user-images.githubusercontent.com/31100580/30386205-d7eb1844-98db-11e7-9c6e-bdbf2f168a1c.png)
 
 
-Wait for the file to execute the commands in the terminal. (Yes, you won't be doing anything at this stage. Simply wait for this scary Terminal window to finish it tasks)
+Wait for the Terminal to execute the commands in the terminal. (Yes, you won't be doing anything at this stage. Simply wait for this scary Terminal window to finish it tasks)
 
 ![screen shot 2017-09-13 at 11 34 14 pm](https://user-images.githubusercontent.com/31100580/30386340-2aa849c6-98dc-11e7-9686-fbee8bab2f07.png)
 
-After the file executes the commands, your default browser now will automatically open a blank Ionic Project. 
+After the Terminal executes the commands, your default browser now will automatically open a blank Ionic Project. 
 
 ![screen shot 2017-09-13 at 11 35 54 pm](https://user-images.githubusercontent.com/31100580/30386424-5d472e2e-98dc-11e7-9ee2-3aff2cc68a6b.png)
 
