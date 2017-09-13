@@ -1,6 +1,6 @@
 # Ionic-Automatic-Mac-Installer
 
-If you do not know how to install Ionics in your Macintosh in the Terminal (or in the Command Prompt). This automate batch file will install the the "software" for youwithout typing any codes.
+If you do not know how to install Ionics and how to create a new Ionic project in your Macintosh Terminal (or in the Command Prompt). This automate batch file will install the the "software" for youwithout typing any codes.
 
 
 <h3> STEP 1:  </h3>
