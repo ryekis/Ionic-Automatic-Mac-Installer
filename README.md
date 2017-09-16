@@ -2,11 +2,14 @@
 
 If you do not know how to install Ionics and how to create a new Ionic project in your Macintosh Terminal (or in the Command Prompt). This automate batch file will install the the "software" for youwithout typing any codes.
 
+<h1> Installation </h1>
 
 <h3> STEP 1:  </h3>
 
 Download the lastest Node.js from https://nodejs.org/en/
 
+
+<h1> Creating a Project  </h1>
 <h3> STEP 2: </h3>
 Unzip and open  "ionic_installer.zip" file. This will automatically install the Ionics framework and create a directory named "Ionic_Projects" in your Documents folder.
 
@@ -37,9 +40,40 @@ Your project is saved at the following folder: ~Documents\Ionic_Projects\Your_Pr
 
 Start editing coding your project. For beginners, you may begin reading the Ionic documentation here:
 
-https://ionicframework.com/docs/components/#alert
+https://ionicframework.com/docs/components/#badges
 
 Try typing the provided code from the Ionic documentation under ~Your_Project_Name\src\pages\home\home.html and see what happens to your blank Ionic Project in the browser
+
+
+
+<h1> Opening a project </h1>
+
+<h3> STEP 1: </h3>
+
+Click on the "open_ionics_project" file. 
+
+![screen shot 2017-09-16 at 5 24 54 pm](https://user-images.githubusercontent.com/31100580/30511101-af1e9ca8-9b04-11e7-8073-e181e2b653cb.png)
+
+
+<h3> STEP 2: </h2> 
+
+A dialog prompt will appear asking you to select the project folder you want to open. Select your project folder and click choose. 
+
+![screen shot 2017-09-16 at 5 23 10 pm](https://user-images.githubusercontent.com/31100580/30511098-a40d90ee-9b04-11e7-937b-82e186fd6e90.png)
+
+
+<h3> STEP 3: </h3> 
+
+Wait for this scary terminal to finish its tasks. 
+
+![screen shot 2017-09-16 at 5 22 29 pm](https://user-images.githubusercontent.com/31100580/30511106-d1d4e360-9b04-11e7-96df-0b9ce6c80235.png)
+
+
+After the Terminal executes all the commands, your file is automatically opened in your browser. You may now edit and preview your project. 
+
+![screen shot 2017-09-13 at 11 35 54 pm](https://user-images.githubusercontent.com/31100580/30386424-5d472e2e-98dc-11e7-9ee2-3aff2cc68a6b.png)
+
+
 
 
 
